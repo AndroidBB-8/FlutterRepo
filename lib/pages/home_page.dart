@@ -11,9 +11,7 @@ class HomePage extends StatelessWidget {
         title: Text("Catalogue App"),
       ),
       body: Center(
-        child: Container(
-          child: Text("Hello World!"),
-        ),
+        child: Text("Hello World!"),
       ),
       drawer: Drawer(),
     );
